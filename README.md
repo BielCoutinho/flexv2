@@ -9,4 +9,5 @@ Gabriel Coutinho
 
 ## Download do APP
 Escaneie o QRCode para ser direcionado ao site do aplicativo. Adicione a tela inicial e instale o APP seguindo as informações do seu smartphone.
+
 ![](img/qrcode.png)
